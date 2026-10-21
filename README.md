@@ -200,5 +200,12 @@ overtime rules, approval workflows). The spec records why each was deferred.
 ## Source code
 
 This repository is a showcase. The source code is kept in a private
-repository because Tapp is a live product. I'm happy to walk through the code
-or grant read access on request.
+repository because Tapp is a live product.
+
+**[Code samples →](code-samples/)** A selection of files copied unedited
+from the private repository: the security policies and their tests, the
+geofence trigger, the payroll bug fix, the timesheet export function and the
+main clock-in screen. Each comes with a note on what to look at.
+
+I'm happy to walk through the rest of the code or grant read access on
+request.
